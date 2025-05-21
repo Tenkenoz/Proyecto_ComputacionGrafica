@@ -1,0 +1,11 @@
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\DiseñoOptico\DiseñoOptico\bin\Debug\DiseñoOptico.exe.config
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\DiseñoOptico\DiseñoOptico\bin\Debug\DiseñoOptico.exe
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\DiseñoOptico\DiseñoOptico\bin\Debug\DiseñoOptico.pdb
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\DiseñoOptico\DiseñoOptico\obj\Debug\DiseñoOptico.csproj.AssemblyReference.cache
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\DiseñoOptico\DiseñoOptico\obj\Debug\DiseñoOptico.Form1.resources
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\DiseñoOptico\DiseñoOptico\obj\Debug\DiseñoOptico.Properties.Resources.resources
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\DiseñoOptico\DiseñoOptico\obj\Debug\DiseñoOptico.csproj.GenerateResource.cache
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\DiseñoOptico\DiseñoOptico\obj\Debug\DiseñoOptico.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\DiseñoOptico\DiseñoOptico\obj\Debug\DiseñoOptico.exe
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\DiseñoOptico\DiseñoOptico\obj\Debug\DiseñoOptico.pdb
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\DiseñoOptico\DiseñoOptico\obj\Debug\DiseñoOptico.exe.config
